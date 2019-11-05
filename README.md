@@ -1,6 +1,6 @@
 # EKF-localisation
 Estimating the 2D pose of a robot using sensor measurements by applying an Extended Kalman Filter (EKF). \
-If the notebook doesn't load, use the jupyter nbviewer. Here's the [link](https://nbviewer.jupyter.org/github/BonJovi1/EKF-localisation/blob/master/code.ipynb)
+If the notebook doesn't load, use the [jupyter nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/EKF-localisation/blob/master/code.ipynb)
 
 ## The Question:
 A ground robot is driving amongst a set of known landmarks. The robot has a wheel odometer that measures its translational and rotational speeds, and a laser rangefinder that measures the range and bearing to the landmarks. Both the sensors are noisy. We need to estimate the 2D pose of the robot throughout its traversal using these sensor measurements by applying an Extended Kalman filter.
